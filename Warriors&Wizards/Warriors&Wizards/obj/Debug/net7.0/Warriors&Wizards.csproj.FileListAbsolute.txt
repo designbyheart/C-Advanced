@@ -1,0 +1,14 @@
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\bin\Debug\net7.0\Warriors&Wizards.exe
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\bin\Debug\net7.0\Warriors&Wizards.deps.json
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\bin\Debug\net7.0\Warriors&Wizards.runtimeconfig.json
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\bin\Debug\net7.0\Warriors&Wizards.dll
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\bin\Debug\net7.0\Warriors&Wizards.pdb
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\Warriors&Wizards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\Warriors&Wizards.AssemblyInfoInputs.cache
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\Warriors&Wizards.AssemblyInfo.cs
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\Warriors&Wizards.csproj.CoreCompileInputs.cache
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\Warriors&Wizards.dll
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\refint\Warriors&Wizards.dll
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\Warriors&Wizards.pdb
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\Warriors&Wizards.genruntimeconfig.cache
+C:\Users\pedja\source\repos\Warriors&Wizards\Warriors&Wizards\obj\Debug\net7.0\ref\Warriors&Wizards.dll

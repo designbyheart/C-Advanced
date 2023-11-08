@@ -1,0 +1,14 @@
+C:\Users\pedja\source\repos\Warriors\Warriors\bin\Debug\net7.0\Warriors.exe
+C:\Users\pedja\source\repos\Warriors\Warriors\bin\Debug\net7.0\Warriors.deps.json
+C:\Users\pedja\source\repos\Warriors\Warriors\bin\Debug\net7.0\Warriors.runtimeconfig.json
+C:\Users\pedja\source\repos\Warriors\Warriors\bin\Debug\net7.0\Warriors.dll
+C:\Users\pedja\source\repos\Warriors\Warriors\bin\Debug\net7.0\Warriors.pdb
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\Warriors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\Warriors.AssemblyInfoInputs.cache
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\Warriors.AssemblyInfo.cs
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\Warriors.csproj.CoreCompileInputs.cache
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\Warriors.dll
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\refint\Warriors.dll
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\Warriors.pdb
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\Warriors.genruntimeconfig.cache
+C:\Users\pedja\source\repos\Warriors\Warriors\obj\Debug\net7.0\ref\Warriors.dll

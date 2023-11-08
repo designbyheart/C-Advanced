@@ -1,0 +1,14 @@
+C:\Users\pedja\source\repos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.exe
+C:\Users\pedja\source\repos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.deps.json
+C:\Users\pedja\source\repos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.runtimeconfig.json
+C:\Users\pedja\source\repos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.dll
+C:\Users\pedja\source\repos\StructDemo\StructDemo\bin\Debug\net7.0\StructDemo.pdb
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.AssemblyInfoInputs.cache
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.AssemblyInfo.cs
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.csproj.CoreCompileInputs.cache
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.dll
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\refint\StructDemo.dll
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.pdb
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\StructDemo.genruntimeconfig.cache
+C:\Users\pedja\source\repos\StructDemo\StructDemo\obj\Debug\net7.0\ref\StructDemo.dll
