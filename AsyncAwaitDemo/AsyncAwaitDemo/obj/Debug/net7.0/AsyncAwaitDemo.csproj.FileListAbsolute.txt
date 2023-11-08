@@ -1,0 +1,14 @@
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net7.0\AsyncAwaitDemo.exe
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net7.0\AsyncAwaitDemo.deps.json
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net7.0\AsyncAwaitDemo.runtimeconfig.json
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net7.0\AsyncAwaitDemo.dll
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\bin\Debug\net7.0\AsyncAwaitDemo.pdb
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\AsyncAwaitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\AsyncAwaitDemo.AssemblyInfoInputs.cache
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\AsyncAwaitDemo.AssemblyInfo.cs
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\AsyncAwaitDemo.dll
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\refint\AsyncAwaitDemo.dll
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\AsyncAwaitDemo.pdb
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\AsyncAwaitDemo.genruntimeconfig.cache
+C:\Users\pedja\source\repos\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net7.0\ref\AsyncAwaitDemo.dll
