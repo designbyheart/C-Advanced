@@ -12,3 +12,7 @@ C:\Users\pedja\source\repos\Web Remote\Web Remote\obj\Debug\net7.0\refint\Web Re
 C:\Users\pedja\source\repos\Web Remote\Web Remote\obj\Debug\net7.0\Web Remote.pdb
 C:\Users\pedja\source\repos\Web Remote\Web Remote\obj\Debug\net7.0\Web Remote.genruntimeconfig.cache
 C:\Users\pedja\source\repos\Web Remote\Web Remote\obj\Debug\net7.0\ref\Web Remote.dll
+C:\Users\pedja\source\repos\Web Remote\Web Remote\bin\Debug\net7.0\System.Net.Http.Extensions.dll
+C:\Users\pedja\source\repos\Web Remote\Web Remote\bin\Debug\net7.0\System.Net.Http.Primitives.dll
+C:\Users\pedja\source\repos\Web Remote\Web Remote\obj\Debug\net7.0\Web Remote.csproj.AssemblyReference.cache
+C:\Users\pedja\source\repos\Web Remote\Web Remote\obj\Debug\net7.0\Web Remote.csproj.CopyComplete

@@ -1,13 +1,19 @@
 ﻿using System;
 using System.Net;
 using System.Net.Http;
+using System.Net.Http.Json;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
+using System.Text.Json;
+using System.Text.Json.Serialization;
+using System.Collections.Generic;
+
 
 namespace ApiDemo
 {
     public class HttpClientDemo
     {
-        public static async void CallAPI(String urlString, String data, HttpRequestType method = HttpRequestType.GET)
+        public static async Task CallAPI(String urlString, String data, HttpRequestType method = HttpRequestType.GET)
         {
             try
             {
@@ -24,8 +30,8 @@ namespace ApiDemo
                 if (response.IsSuccessStatusCode)
                 {
                     // Process successful response
-                    string responseContent = await response.Content.ReadAsStringAsync();
-                    Console.WriteLine("response is success: ", responseContent);
+                    var content = await response.Content.ReadAsStringAsync();
+                    Console.WriteLine("response is success: {0}", content.ToString());
 
                 }
                 else if (response.StatusCode == HttpStatusCode.NotFound)
@@ -69,5 +75,51 @@ namespace ApiDemo
             return client;
         }
 
+    }
+
+
+    public class Hero
+    {
+        [JsonPropertyName("id")]
+        public int Id { get; set; }
+
+        [JsonPropertyName("name")]
+        public string Name { get; set; }
+
+        [JsonPropertyName("localized_name")]
+        public string LocalizedName { get; set; }
+
+        [JsonPropertyName("primary_attr")]
+        public string PrimaryAttribute { get; set; }
+
+        [JsonPropertyName("attack_type")]
+        public string AttackType { get; set; }
+
+        [JsonPropertyName("roles")]
+        public List<string> Roles { get; set; }
+    }
+
+
+    public class HeroService
+    {
+        private readonly HttpClient _httpClient;
+
+        public HeroService(HttpClient httpClient)
+        {
+            _httpClient = httpClient;
+        }
+
+        public async Task<List<Hero>> GetHeroesAsync()
+        {
+            var response = await _httpClient.GetAsync("https://api.opendota.com/api/heroes");
+            response.EnsureSuccessStatusCode();
+            var content = await response.Content.ReadAsStringAsync();
+
+           // Console.WriteLine("response is success: {0}", content.ToString());
+
+            //var heroes = new List<Hero> { new Hero() };
+            var heroes = JsonSerializer.Deserialize<List<Hero>>(content, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
+            return heroes;
+        }
     }
 }

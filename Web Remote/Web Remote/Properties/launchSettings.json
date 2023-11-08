@@ -1,7 +1,9 @@
 {
   "profiles": {
     "Web Remote": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "nativeDebugging": false,
+      "jsWebView2Debugging": false
     },
     "WSL": {
       "commandName": "WSL2",
